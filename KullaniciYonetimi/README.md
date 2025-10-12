@@ -1,6 +1,6 @@
 # IdentityAuthApp
 
-Bu proje, ASP.NET Identity kullanarak oluşturulmuş bir **kimlik doğrulama ve yetkilendirme uygulamasıdır**. Kullanıcılar kayıt olabilir, giriş yapabilir; adminler ise rol atayabilir.
+**Bu proje, ASP.NET Identity kullanarak oluşturulmuş bir **kimlik doğrulama ve yetkilendirme uygulamasıdır**. Kullanıcılar kayıt olabilir, giriş yapabilir; adminler ise rol atayabilir.
 ---
 
 ## Özellikler
